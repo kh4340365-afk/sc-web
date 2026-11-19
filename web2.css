@@ -1,0 +1,183 @@
+.my-b{
+  color: blue;
+}
+.my-a{
+   background-size: 250% 250%;
+  font-size: 16PX;
+  margin: 16px;
+  padding: 12px 24px;
+  border: 0;
+
+}
+
+.site-nav{
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  margin: 16px;
+  padding: 12px;
+  border-radius: 12px;
+  background-color: #402817;
+}
+
+.site-nav a{
+  padding: 10px 16px;
+  border-radius: 8px;
+  color: #fff;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.site-nav a:hover,
+.site-nav a:focus-visible,
+.site-nav a[aria-current="page"]{
+  background-color: #975d33;
+}
+
+.external-links{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin: 32px 16px;
+}
+
+.external-links a{
+  min-width: 120px;
+  padding: 14px 22px;
+  border-radius: 10px;
+  background-color: #fff;
+  color: #402817;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+}
+
+.external-links a:hover,
+.external-links a:focus-visible{
+  background-color: #f0dfcf;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .google-button{
+  display: inline-block;
+  margin: 16px;
+  padding: 12px 24px;
+  border: 0;
+  border-radius: 999px;
+  background: linear-gradient(120deg, #4285f4, #34a853, #fbbc05, #ea4335, #4285f4);
+  background-size: 250% 250%;
+  color: #fff;
+  font: bold 16px 'Times New Roman', Times, serif;
+  text-decoration: none;
+  box-shadow: 0 6px 16px rgb(100 0 0 / 90%);
+  transition: transform 180ms ease, box-shadow 180ms ease;
+  animation: google-gradient 5s ease infinite;
+}
+
+.google-button:hover{
+  transform: translateY(20px) scale(5);
+  box-shadow: 0 10px 22px rgba(229, 34, 16, 0.642);
+}
+
+.google-button:focus-visible{
+  outline: 3px solid #e9110a;
+  outline-offset: 4px;
+}
+
+@keyframes google-gradient{
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
+
+@media (prefers-reduced-motion: reduce){
+  .google-button{
+    animation: none;
+    transition: none;
+  }
+}
+
+
+   
+     */
